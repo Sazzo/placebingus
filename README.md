@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sazzo/placebingus/main/src/images/bingus2.jpg" width="512" height="512" />
+<img src="https://raw.githubusercontent.com/Sazzo/placebingus/main/src/images/bingus2.jpg" width="500" height="500" />
 </p>
 
 <h1 align="center">PlaceBingus</h1>
@@ -12,9 +12,9 @@ Simply get a random image using
 
 ## TODO
 
-- [] Resize placeholder.
-- [] Get image list.
-- [] Homepage
+- [ ] Resize placeholder.
+- [ ] Get image list.
+- [ ] Homepage
 
 ## Credits
 
