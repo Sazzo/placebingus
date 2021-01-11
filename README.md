@@ -16,6 +16,9 @@ Simply get a random image using
 - [ ] Get image list.
 - [ ] Homepage
 
+## Why Rust?
+I never compiled or coded anything with Rust, so I think this was a good first time.
+
 ## Credits
 
 Inspired by the project of Xerere and 1Computer1, placewaifu.
