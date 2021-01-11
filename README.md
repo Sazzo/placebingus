@@ -18,5 +18,5 @@ Simply get a random image using
 
 ## Credits
 
-Inspired by the design of Xerere and 1Computer1, placewaifu.
+Inspired by the project of Xerere and 1Computer1, placewaifu.
 https://placewaifu.com
