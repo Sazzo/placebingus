@@ -7,3 +7,9 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+warp = "0.2"
+tokio = { version = "0.2.22", features = ["macros"] }
+rust-embed="5.8.0"
+rand = "0.8.1"
+base64 = "0.13.0"
+imagesize = "0.8"
