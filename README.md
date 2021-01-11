@@ -21,5 +21,5 @@ I never compiled or coded anything with Rust, so I think this was a good first t
 
 ## Credits
 
-Inspired by the project of Xerere and 1Computer1, placewaifu.
+Inspired by the project of Xetera and 1Computer1, placewaifu.
 https://placewaifu.com
